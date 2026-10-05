@@ -1,0 +1,11 @@
+bin/
+data/*
+!data/.gitkeep
+*.o
+*.ko
+*.mod
+*.mod.c
+*.order
+*.symvers
+*.log
+.DS_Store
